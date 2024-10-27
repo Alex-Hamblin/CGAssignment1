@@ -14,7 +14,7 @@ public class Colorgradecontroller : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Alpha1))
         {
-            SCS.enabled = true;
+            SCS.enabled = false;
             SCS1.enabled = false;
             SCS2.enabled = false;
             SCS3.enabled = false;
@@ -22,10 +22,34 @@ public class Colorgradecontroller : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Alpha2))
         {
+            SCS.enabled = true;
+            SCS1.enabled = false;
+            SCS2.enabled = false;
+            SCS3.enabled = false;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
             SCS.enabled = false;
             SCS1.enabled = true;
             SCS2.enabled = false;
             SCS3.enabled = false;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            SCS.enabled = false;
+            SCS1.enabled = false;
+            SCS2.enabled = true;
+            SCS3.enabled = false;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha5))
+        {
+            SCS.enabled = false;
+            SCS1.enabled = false;
+            SCS2.enabled = false;
+            SCS3.enabled = true;
         }
     }
 }
