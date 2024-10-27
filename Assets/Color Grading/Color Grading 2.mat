@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Color Grading
+  m_Name: Color Grading 2
   m_Shader: {fileID: 4800000, guid: e89a7b86f00f1724b99d60d1431b91b9, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LUT:
-        m_Texture: {fileID: 2800000, guid: 2bf22d4f723926d4d9046e7a57e752fe, type: 3}
+        m_Texture: {fileID: 2800000, guid: ad4127c20ceaf844dbbbfcea42635496, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
