@@ -7,15 +7,15 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Custom_Lambert
-  m_Shader: {fileID: 4800000, guid: c6dcf8ed3a06f6c4b94ce5fb5e7a14f9, type: 3}
+  m_Name: Custom_Ambient
+  m_Shader: {fileID: 4800000, guid: d188a7007f1cad94dbb9215775212520, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -26,5 +26,5 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Color: {r: 0.28155038, g: 0.3490566, b: 0.32568908, a: 1}
+    - _Color: {r: 0, g: 1, b: 0.98041606, a: 1}
   m_BuildTextureStacks: []

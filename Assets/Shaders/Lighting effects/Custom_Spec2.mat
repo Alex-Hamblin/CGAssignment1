@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Custom_Lambert
-  m_Shader: {fileID: 4800000, guid: c6dcf8ed3a06f6c4b94ce5fb5e7a14f9, type: 3}
+  m_Name: Custom_Spec2
+  m_Shader: {fileID: 4800000, guid: a00f74d717925624783a85fc06aca051, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,7 +24,9 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats: []
+    m_Floats:
+    - _Shininess: 0.97
     m_Colors:
-    - _Color: {r: 0.28155038, g: 0.3490566, b: 0.32568908, a: 1}
+    - _Color: {r: 0, g: 0.4339623, b: 0.37846982, a: 1}
+    - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

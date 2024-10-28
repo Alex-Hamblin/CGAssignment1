@@ -668,7 +668,7 @@ Terrain:
   m_StaticShadowCaster: 0
   m_IgnoreQualitySettings: 0
   m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 2100000, guid: b21f9b41c8026e44ca2acad697955d2e, type: 2}
+  m_MaterialTemplate: {fileID: 2100000, guid: a0ae2a4b58e4a624f9c921e45b2679e9, type: 2}
   m_BakeLightProbesForTrees: 1
   m_PreserveTreePrototypeLayers: 0
   m_DeringLightProbesForTrees: 1
@@ -1341,7 +1341,7 @@ Terrain:
   m_StaticShadowCaster: 0
   m_IgnoreQualitySettings: 0
   m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 2100000, guid: 7810822e9adf03f4ea085f85886dd86c, type: 2}
+  m_MaterialTemplate: {fileID: 2100000, guid: a0ae2a4b58e4a624f9c921e45b2679e9, type: 2}
   m_BakeLightProbesForTrees: 1
   m_PreserveTreePrototypeLayers: 0
   m_DeringLightProbesForTrees: 1
@@ -7533,7 +7533,7 @@ Terrain:
   m_StaticShadowCaster: 0
   m_IgnoreQualitySettings: 0
   m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 2100000, guid: b21f9b41c8026e44ca2acad697955d2e, type: 2}
+  m_MaterialTemplate: {fileID: 2100000, guid: a0ae2a4b58e4a624f9c921e45b2679e9, type: 2}
   m_BakeLightProbesForTrees: 1
   m_PreserveTreePrototypeLayers: 0
   m_DeringLightProbesForTrees: 1
@@ -7736,7 +7736,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.9622642, g: 0.79341537, b: 0.66723037, a: 1}
+  m_Color: {r: 0.6745283, g: 1, b: 0.97793406, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
@@ -8390,7 +8390,7 @@ PrefabInstance:
     - target: {fileID: 8267841828955173526, guid: 9c4554543edcb8346bf0767b4aafd3aa, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 8a6f4bcc0ade40843ac26974c41b1a19, type: 2}
+      objectReference: {fileID: 2100000, guid: 56ea125faf2095446a2e24f21b01f502, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
