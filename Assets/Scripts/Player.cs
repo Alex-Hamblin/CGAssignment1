@@ -13,6 +13,7 @@ public class Player : MonoBehaviour
     Camera playerCam;
     private Transform CamTransform;
 
+    public bool dead;
 
     // Start is called before the first frame update
     void Start()
