@@ -19,10 +19,12 @@ All of the Shaders were implemented using ShaderLab
 
 Colour Grading:
 Color Grading Shader Code
+
 ![image](https://github.com/user-attachments/assets/c36aed67-8220-4e81-8233-275bd1bbe60d)
 
 
 Color Grading Camera code
+
 ![image](https://github.com/user-attachments/assets/0036e2e6-21a5-4192-a84f-de627494c1cd)
 
 Color Grading was added to add a unique visual style to the game and has toggleable options to allow players to enable it if they want. The color grading choices we used were mainly for cold colors as we wanted to achieve a darker, more spookier feel to the games visuals.
@@ -44,6 +46,7 @@ Alpha:
 The Alpha Transparency was used to create numbers on some of the signboards around in our game. It's useful as we're able to display the numbers we need without needing to create a special texture for the objects themselves that contains the numbers It also helps as we have some holographics trees as some sort of ghost tree but because the alpha transparency can only be seen from the front then players won't be able to just see what the number is from behind the object.
 
 Hologram:
+
 ![image](https://github.com/user-attachments/assets/bfc573f4-647f-4fce-8a4b-d9fe405f1e8d)
 
 Was modified to add the properties of Rim Intensity to the base hologram shader. The Emission of the shader was increased to provide a brighter color and effect to the shader. Rim intensity is meant to control how strong the glow effect of the holgram is and thus is multiplied into the emission equation to have the effect working and more noticeable. This effect was used as for a more spooky atmosphere we figured applying it to some trees could act as a nice looking effect but could be seen as a sort of ghost tree or ghost effect. 
