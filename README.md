@@ -51,9 +51,12 @@ Diffuse was applied to the ground in one of the areas to showcase the changes in
 Ambient:
 
 Ambient was applied to the trees to show the difference in the styles and to experiment with different lighting effects on the trees. We changed the colour of the shader to match the theme of the environment that it was in. 
+
 Specular:
 
 specular was applied to the environment to create a ghostly look, we also changed the colour to fit this style.
+
+
 Decal:
 
 Alpha:
