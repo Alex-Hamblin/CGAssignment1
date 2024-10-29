@@ -30,6 +30,13 @@ Color Grading Camera code
 Color Grading was added to add a unique visual style to the game and has toggleable options to allow players to enable it if they want. The color grading choices we used were mainly for cold colors as we wanted to achieve a darker, more spookier feel to the games visuals.
 
 Toon Ramp:
+![image](https://github.com/user-attachments/assets/efb53cc9-1b36-4351-ac49-72f2d8bd54d5)
+
+
+
+The toon ramp was used to create a unique look to thie environment as well as test how it would look with different colours, we found a way to apply a texture to the toon shader allowing us to achieve the desired effect, keeping the toon lighting while still having the detail from the textures. 
+
+
 
 Diffuse:
 
