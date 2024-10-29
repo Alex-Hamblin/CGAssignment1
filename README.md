@@ -30,6 +30,15 @@ Color Grading Camera code
 
 ![image](https://github.com/user-attachments/assets/0036e2e6-21a5-4192-a84f-de627494c1cd)
 
+![image](https://github.com/user-attachments/assets/9190f145-f31d-403b-8645-9ce3fcab4ef7)
+
+![image](https://github.com/user-attachments/assets/e44c148e-231e-4acd-8a2c-1438a05e442e)
+
+![image](https://github.com/user-attachments/assets/3496b37c-1d0d-4971-9bec-3e40d72e16ae)
+
+![image](https://github.com/user-attachments/assets/d0b3eed5-2d93-402d-81de-3a5e3e0dfb5f)
+
+![image](https://github.com/user-attachments/assets/fecd1867-f4cc-46e6-a01f-3bba6beea050)
 
 
 Color Grading was added to add a unique visual style to the game and has toggleable options to allow players to enable it if they want. The color grading choices we used were mainly for cold colors as we wanted to achieve a darker, more spookier feel to the games visuals.
