@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -39,4 +40,16 @@ public class Player : MonoBehaviour
     {
         moveDir = newDir;
     }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Monster")
+        {
+            SceneManager.LoadScene("Death");
+        }
+        if (collision.gameObject.tag == "Exit")
+        {
+            SceneManager.LoadScene("Win");
+        }
+    }
+
 }
