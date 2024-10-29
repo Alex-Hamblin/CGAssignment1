@@ -25,7 +25,7 @@ Color Grading Shader Code
 Color Grading Camera code
 ![image](https://github.com/user-attachments/assets/0036e2e6-21a5-4192-a84f-de627494c1cd)
 
-
+Color Grading was added to add a unique visual style to the game and has toggleable options to allow players to enable it if they want. The color grading choices we used were mainly for cold colors as we wanted to achieve a darker, more spookier feel to the games visuals.
 
 Toon Ramp:
 
@@ -38,5 +38,8 @@ Specular:
 Decal:
 
 Alpha:
+![image](https://github.com/user-attachments/assets/b3bc9a3b-a4d6-41da-be06-79d3878db23b)
+
+
 
 Hologram:
