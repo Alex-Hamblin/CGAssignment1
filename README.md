@@ -82,6 +82,9 @@ Decal:
 ![image](https://github.com/user-attachments/assets/6da31bed-37d1-40d8-b977-a7f2cf9af757)
 
 
+![image](https://github.com/user-attachments/assets/b2ed9d47-9529-4f4a-9f35-3b0f1d97daa1)
+
+
 
 The decal was used to apply different textures to the signs, we experimented with 2 different methods of applying decals, one way was to apply the number texture then the decal over top, the other way was to apply a decal then the texture so that the texture would only show through the area that the decal was on
 Alpha:
