@@ -9,8 +9,7 @@ Shader "Custom/Hologram"
 
     SubShader
     {
-        Tags {"Queue" = "Transparent"}
-        Blend SrcAlpha OneMinusSrcAlpha // Enable alpha blending
+        Tags {"Queue" = "Transparent"}       
 
         Pass {
             ZWrite on
