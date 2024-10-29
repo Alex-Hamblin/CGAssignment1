@@ -30,6 +30,8 @@ Color Grading Camera code
 
 ![image](https://github.com/user-attachments/assets/0036e2e6-21a5-4192-a84f-de627494c1cd)
 
+
+
 Color Grading was added to add a unique visual style to the game and has toggleable options to allow players to enable it if they want. The color grading choices we used were mainly for cold colors as we wanted to achieve a darker, more spookier feel to the games visuals.
 
 Toon Ramp:
@@ -91,6 +93,10 @@ The decal was used to apply different textures to the signs, we experimented wit
 Alpha:
 
 ![image](https://github.com/user-attachments/assets/b3bc9a3b-a4d6-41da-be06-79d3878db23b)
+
+![image](https://github.com/user-attachments/assets/47cb84d0-0c60-4580-add5-e35acbb42a87)
+
+![image](https://github.com/user-attachments/assets/72c6c70d-3443-4f2f-8628-b7c7c8d0f314)
 
 The Alpha Transparency was used to create numbers on some of the signboards around in our game. It's useful as we're able to display the numbers we need without needing to create a special texture for the objects themselves that contains the numbers It also helps as we have some holographics trees as some sort of ghost tree but because the alpha transparency can only be seen from the front then players won't be able to just see what the number is from behind the object.
 
