@@ -6,6 +6,10 @@ Controls:
 WASD to move
 First person camera controls
 
+press 1 turn off color grading.
+
+use 2,3,4,5,6 to switch between different color grading effects. 
+
 Gameplay:
 Find the 4 signboards that have the code on them.
 code is from smallest number to largest.
@@ -14,9 +18,6 @@ You will find this door by looking for the wall that looks different from the ot
 Avoid the monster.
 When you enter the code correctly the wall will dissapear and reveal the exit.
 
-press 1 turn off color grading.
-
-use 2,3,4,5,6 to switch between different color grading effects. 
 Implementation:
 All of the Shaders were implemented using ShaderLab
 
