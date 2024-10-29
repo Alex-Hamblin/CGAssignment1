@@ -14,6 +14,9 @@ You will find this door by looking for the wall that looks different from the ot
 Avoid the monster.
 When you enter the code correctly the wall will dissapear and reveal the exit.
 
+press 1 turn off color grading.
+
+use 2,3,4,5,6 to switch between different color grading effects. 
 Implementation:
 All of the Shaders were implemented using ShaderLab
 
@@ -43,10 +46,14 @@ The toon ramp was used to create a unique look to thie environment as well as te
 
 Diffuse:
 
+Diffuse was applied to the ground in one of the areas to showcase the changes in elevation and landscape. This is to experiement with the lighting and how it effects the terrain
+
 Ambient:
 
+Ambient was applied to the trees to show the difference in the styles and to experiment with different lighting effects on the trees. We changed the colour of the shader to match the theme of the environment that it was in. 
 Specular:
 
+specular was applied to the environment to create a ghostly look, we also changed the colour to fit this style.
 Decal:
 
 Alpha:
