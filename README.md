@@ -18,6 +18,8 @@ Implementation:
 All of the Shaders were implemented using ShaderLab
 
 Colour Grading:
+![image](https://github.com/user-attachments/assets/9f407de1-62d4-45f6-b4c7-d184ce31fe6e)
+
 
 Toon Ramp:
 
