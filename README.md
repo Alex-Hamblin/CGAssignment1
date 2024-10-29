@@ -46,19 +46,44 @@ The toon ramp was used to create a unique look to thie environment as well as te
 
 Diffuse:
 
+![image](https://github.com/user-attachments/assets/bf1b8a16-d27b-47bc-b32f-cb5871ae2bb6)
+
+![image](https://github.com/user-attachments/assets/e3c72cb9-96b5-4573-a40c-6009b30209e4)
+
+
+
 Diffuse was applied to the ground in one of the areas to showcase the changes in elevation and landscape. This is to experiement with the lighting and how it effects the terrain
 
 Ambient:
 
+![image](https://github.com/user-attachments/assets/deccc69a-dc28-4b37-8384-493a8d3c75ca)
+![image](https://github.com/user-attachments/assets/2bf110e8-c82e-4be8-8554-46b38457a84b)
+
+
+
+
+
 Ambient was applied to the trees to show the difference in the styles and to experiment with different lighting effects on the trees. We changed the colour of the shader to match the theme of the environment that it was in. 
 
 Specular:
+
+![image](https://github.com/user-attachments/assets/8dc81a8c-3e1a-4c41-81fa-3e4de28b477c)
+![image](https://github.com/user-attachments/assets/3f75d02a-03cb-47db-98cc-8c04d2695ef0)
+
+
 
 specular was applied to the environment to create a ghostly look, we also changed the colour to fit this style.
 
 
 Decal:
 
+
+![image](https://github.com/user-attachments/assets/d070e160-8fac-4f4e-a494-0d6a0623bf77)
+![image](https://github.com/user-attachments/assets/6da31bed-37d1-40d8-b977-a7f2cf9af757)
+
+
+
+The decal was used to apply different textures to the signs, we experimented with 2 different methods of applying decals, one way was to apply the number texture then the decal over top, the other way was to apply a decal then the texture so that the texture would only show through the area that the decal was on
 Alpha:
 
 ![image](https://github.com/user-attachments/assets/b3bc9a3b-a4d6-41da-be06-79d3878db23b)
