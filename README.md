@@ -52,7 +52,7 @@ Diffuse:
 
 
 
-Diffuse was applied to the ground in one of the areas to showcase the changes in elevation and landscape. This is to experiement with the lighting and how it effects the terrain. we wanted a way to accentuate the differences in the height of the elevation and outline the ground, this was one of the methods that we used to acheve this. We messed with the colours to make the terrain pop out more and fit the style that we were looking for
+Diffuse was applied to the ground in one of the areas to showcase the changes in elevation and landscape. This is to experiement with the lighting and how it effects the terrain. we wanted a way to accentuate the differences in the height of the elevation and outline the ground, this was one of the methods that we used to acheve this. We messed with the colours to make the terrain pop out more and fit the style that we were looking for.
 
 Ambient:
 
@@ -86,7 +86,7 @@ Decal:
 
 
 
-The decal was used to apply different textures to the signs, we experimented with 2 different methods of applying decals, one way was to apply the number texture then the decal over top, the other way was to apply a decal then the texture so that the texture would only show through the area that the decal was on
+The decal was used to apply different textures to the signs, we experimented with 2 different methods of applying decals, one way was to apply the number texture then the decal over top, the other way was to apply a decal then the texture so that the texture would only show through the area that the decal was on.
 
 Alpha:
 
