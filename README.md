@@ -104,6 +104,9 @@ Hologram:
 
 ![image](https://github.com/user-attachments/assets/bfc573f4-647f-4fce-8a4b-d9fe405f1e8d)
 
+![image](https://github.com/user-attachments/assets/65ee8e2e-d7b1-4229-9ca0-da9089fb7087)
+
+
 Was modified to add the properties of Rim Intensity to the base hologram shader. The Emission of the shader was increased to provide a brighter color and effect to the shader. Rim intensity is meant to control how strong the glow effect of the holgram is and thus is multiplied into the emission equation to have the effect working and more noticeable. This effect was used as for a more spooky atmosphere we figured applying it to some trees could act as a nice looking effect but could be seen as a sort of ghost tree or ghost effect. 
 
 Reference used for the hologram shader: https://medium.com/@FeGameArt/unity-tutorial-rim-light-shader-905380b28600
