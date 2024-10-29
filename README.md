@@ -43,3 +43,4 @@ Alpha:
 The Alpha Transparency was used to create numbers on some of the signboards around in our game. It's useful as we're able to display the numbers we need without needing to create a special texture for the objects themselves that contains the numbers It also helps as we have some holographics trees as some sort of ghost tree but because the alpha transparency can only be seen from the front then players won't be able to just see what the number is from behind the object.
 
 Hologram:
+![image](https://github.com/user-attachments/assets/bfc573f4-647f-4fce-8a4b-d9fe405f1e8d)
