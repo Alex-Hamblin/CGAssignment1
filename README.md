@@ -52,7 +52,7 @@ Diffuse:
 
 
 
-Diffuse was applied to the ground in one of the areas to showcase the changes in elevation and landscape. This is to experiement with the lighting and how it effects the terrain
+Diffuse was applied to the ground in one of the areas to showcase the changes in elevation and landscape. This is to experiement with the lighting and how it effects the terrain. we wanted a way to accentuate the differences in the height of the elevation and outline the ground, this was one of the methods that we used to acheve this. We messed with the colours to make the terrain pop out more and fit the style that we were looking for
 
 Ambient:
 
@@ -63,7 +63,7 @@ Ambient:
 
 
 
-Ambient was applied to the trees to show the difference in the styles and to experiment with different lighting effects on the trees. We changed the colour of the shader to match the theme of the environment that it was in. 
+Ambient was applied to the trees to show the difference in the styles and to experiment with different lighting effects on the trees. We changed the colour of the shader to match the theme of the environment that it was in. We found that the trees with the ambient shader had softer lighting tones in the shadows but brighter ones in the light, leading to a very bright object. 
 
 Specular:
 
@@ -72,7 +72,7 @@ Specular:
 
 
 
-specular was applied to the environment to create a ghostly look, we also changed the colour to fit this style.
+specular was applied to the environment to create a ghostly look, we also changed the colour to fit this style. it created a look that made it seem that the light was being absorbed into the ground. Creating a very unique look to the environment, the look we were going for in this area was more of a ghostly possessed environment, which this lighting acheived perfectly. 
 
 
 Decal:
@@ -87,6 +87,7 @@ Decal:
 
 
 The decal was used to apply different textures to the signs, we experimented with 2 different methods of applying decals, one way was to apply the number texture then the decal over top, the other way was to apply a decal then the texture so that the texture would only show through the area that the decal was on
+
 Alpha:
 
 ![image](https://github.com/user-attachments/assets/b3bc9a3b-a4d6-41da-be06-79d3878db23b)
