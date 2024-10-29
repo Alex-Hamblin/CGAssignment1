@@ -32,6 +32,8 @@ Color Grading was added to add a unique visual style to the game and has togglea
 Toon Ramp:
 
 ![image](https://github.com/user-attachments/assets/efb53cc9-1b36-4351-ac49-72f2d8bd54d5)
+![image](https://github.com/user-attachments/assets/f58fe465-596f-49ac-bc13-64f0b0a82a35)
+
 
 
 
