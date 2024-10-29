@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Custom_Toon 1
-  m_Shader: {fileID: 4800000, guid: e3bc0c5ff41d39a40ad378ebd1ac5ad1, type: 3}
+  m_Name: Custom_Alpha
+  m_Shader: {fileID: 4800000, guid: 8e6bc3309bfb8ae438df8d8053611f5e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,15 +24,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 9810766def8ca1a4eb3bbd348bdd73eb, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _RampTex:
-        m_Texture: {fileID: 2800000, guid: 35e9e5bd59a7b2e4497f29ab29c1d2ae, type: 3}
+        m_Texture: {fileID: 2800000, guid: 62ec4a89c30e63249b4b4000c7fc8f67, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats: []
-    m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 1}
+    m_Colors: []
   m_BuildTextureStacks: []

@@ -2,6 +2,7 @@ Shader "Custom/Lambert"
 {
 	Properties{
 		_Color("Color", Color) = (1.0,1.0,1.0)
+		_tex1("Tex", 2D) = "White" {}
 	}
 
 		SubShader{
@@ -18,6 +19,8 @@ Shader "Custom/Lambert"
 				
 				// unity defined variables
 				uniform float4 _LightColor0;
+
+				
 				
 				// unity 3 definitions
 				// float4x4 _Object2World;
@@ -33,6 +36,7 @@ Shader "Custom/Lambert"
 				struct vertexOutput {
 					float4 pos: SV_POSITION;
 					float4 col: COLOR;
+					fixed4 _tex1: Tex;
 				};
 
 
@@ -49,15 +53,18 @@ Shader "Custom/Lambert"
 
 					o.col = float4(diffuseReflection, 1.0);
 					o.pos = UnityObjectToClipPos(v.vertex);
-
+					
 					return o;
 				}
 
 				// fragment function
-				float4 frag(vertexOutput i) : COLOR
+				float4 frag(vertexOutput i) : COLOR 
 				{
+					
 					return i.col;
+					
 				}
+				
 
 
 			ENDCG
