@@ -19,7 +19,8 @@ All of the Shaders were implemented using ShaderLab
 
 Colour Grading:
 Color Grading Shader Code
-![image](https://github.com/user-attachments/assets/9f407de1-62d4-45f6-b4c7-d184ce31fe6e)
+![image](https://github.com/user-attachments/assets/c36aed67-8220-4e81-8233-275bd1bbe60d)
+
 
 Color Grading Camera code
 ![image](https://github.com/user-attachments/assets/0036e2e6-21a5-4192-a84f-de627494c1cd)
